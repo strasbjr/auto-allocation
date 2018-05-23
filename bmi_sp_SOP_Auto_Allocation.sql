@@ -77,7 +77,7 @@ begin
 end
 
 DECLARE @ProfileName VARCHAR(MAX) = 'Administrator'
-DECLARE @Receipients VARCHAR(MAX) = 'bdb-carl@bludot.com;ssweerin@bludot.com;jstrasburg@bludot.com'
+DECLARE @Receipients VARCHAR(MAX) = 'bdb-carl@bludot.com;ssweerin@bludot.com'
 --DECLARE @Receipients VARCHAR(MAX) = 'jstrasburg@bludot.com'
 
 DECLARE
